@@ -3,6 +3,19 @@
 Source code for "Modeling the circadian regulation of the immune system: Sexually dimorphic effects of shift work. PLoS computational biology, 17(3), e1008514".
 
 Author summary: Shift work has a negative impact on health and can lead to chronic diseases and illnesses. Under regular work schedules, rest is a night time activity and work a daytime activity. Shift work relies on irregular work schedules which disrupt the natural sleep-wake cycle. This can in turn disrupt our biological clock, called the circadian clock, a network of molecular interactions generating biochemical oscillations with a near 24-hour period. Clock genes regulate cytokines before and during infection and immune agents can also impact the clock function. We provide a mathematical model of the circadian clock in the rat lung coupled to an acute inflammation model to study how the disruptive effect of shift work manifests itself in males and females during inflammation. Our results show that the extent of sequelae experienced by male and female rats depends on the time of infection. The goal of this study is to provide a mechanistic insight of the dynamics involved in the interplay between these two systems.
+
+Cite as: Abo, S. M. C., & Layton, A. T. (2021). Modeling the circadian regulation of the immune system: Sexually dimorphic effects of shift work. PLoS computational biology, 17(3), e1008514.
+
+@article{abo2021modeling,
+  title={Modeling the circadian regulation of the immune system: Sexually dimorphic effects of shift work},
+  author={Abo, St{\'e}phanie MC and Layton, Anita T},
+  journal={PLoS computational biology},
+  volume={17},
+  number={3},
+  pages={e1008514},
+  year={2021},
+  publisher={Public Library of Science San Francisco, CA USA}
+}
 #######################################################################################################
 
 There are three main models:
